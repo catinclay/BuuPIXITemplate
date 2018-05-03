@@ -1,4 +1,4 @@
-# todo-with-firebase
+# PIXIjs template
 
 ## build
 

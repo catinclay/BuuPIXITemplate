@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "PIXIjs template",
   "version": "0.1.0",
-  "description": "just todo",
+  "description": "PIXIjs template",
   "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production webpack && cp -f -r index.html assets dist/",
